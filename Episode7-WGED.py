@@ -53,5 +53,5 @@ else:
 
 time.sleep(2)
 
-print("TestGithu<Blelluzlelr")
+print("What GitHub")
 
